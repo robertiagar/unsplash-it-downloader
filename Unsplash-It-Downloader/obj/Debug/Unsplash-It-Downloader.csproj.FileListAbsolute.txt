@@ -1,0 +1,8 @@
+D:\Projects\GitHub\Unsplash-It-Downloader\Unsplash-It-Downloader\bin\Debug\Unsplash-It-Downloader.exe.config
+D:\Projects\GitHub\Unsplash-It-Downloader\Unsplash-It-Downloader\bin\Debug\Unsplash-It-Downloader.exe
+D:\Projects\GitHub\Unsplash-It-Downloader\Unsplash-It-Downloader\bin\Debug\Unsplash-It-Downloader.pdb
+D:\Projects\GitHub\Unsplash-It-Downloader\Unsplash-It-Downloader\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\GitHub\Unsplash-It-Downloader\Unsplash-It-Downloader\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\GitHub\Unsplash-It-Downloader\Unsplash-It-Downloader\obj\Debug\Unsplash-It-Downloader.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\Unsplash-It-Downloader\Unsplash-It-Downloader\obj\Debug\Unsplash-It-Downloader.exe
+D:\Projects\GitHub\Unsplash-It-Downloader\Unsplash-It-Downloader\obj\Debug\Unsplash-It-Downloader.pdb
